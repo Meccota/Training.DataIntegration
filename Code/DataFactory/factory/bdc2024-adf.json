@@ -1,0 +1,9 @@
+{
+	"name": "bdc2024-adf",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b14a8091-346f-470f-9d67-4a35ace393e1",
+		"tenantId": "78441fe7-b288-4265-a160-dcbc206dc693"
+	}
+}
