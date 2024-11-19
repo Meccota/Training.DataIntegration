@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStorageBDC2024",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://bdc2024storageaccount.dfs.core.windows.net/"
+		}
+	}
+}
